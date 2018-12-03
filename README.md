@@ -67,3 +67,7 @@
 ---
 
 # DİNLEDİĞİNİZ İÇİN TEŞEKKÜRLER.
+
+---
+
+#Teşekkürler.
